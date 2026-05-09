@@ -1,0 +1,70 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+/// <summary>
+/// A class to make projectiles move and be blocked by planets
+/// </summary>
+public class Projectile : MonoBehaviour
+{
+    [Tooltip("The distance this projectile will move each second.")]
+    public float projectileSpeed = 3.0f;
+
+    [Header("Collision Settings")]
+    [Tooltip("The tag used by planet objects.")]
+    public string planetTag = "Planet";
+
+    [Tooltip("Destroy the projectile automatically after this many seconds.")]
+    public float lifeTime = 5.0f;
+
+    private Rigidbody2D myRigidbody;
+
+    private void Awake()
+    {
+        myRigidbody = GetComponent<Rigidbody2D>();
+    }
+
+    private void Start()
+    {
+        Destroy(gameObject, lifeTime);
+    }
+
+    private void FixedUpdate()
+    {
+        MoveProjectile();
+    }
+
+    /// <summary>
+    /// Move the projectile in the direction it is heading
+    /// </summary>
+    private void MoveProjectile()
+    {
+        Vector2 moveDirection = transform.up;
+        Vector2 moveAmount = moveDirection * projectileSpeed * Time.fixedDeltaTime;
+
+        if (myRigidbody != null)
+        {
+            myRigidbody.MovePosition(myRigidbody.position + moveAmount);
+        }
+        else
+        {
+            transform.position = transform.position + transform.up * projectileSpeed * Time.fixedDeltaTime;
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag(planetTag))
+        {
+            Destroy(gameObject);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.collider.CompareTag(planetTag))
+        {
+            Destroy(gameObject);
+        }
+    }
+}
