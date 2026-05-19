@@ -1,0 +1,35 @@
+Kanban Update
+Project: HIJING: DUEL
+
+This update explains the changes I made to the Kanban setup for HIJING: DUEL. It only covers the adjustments that were actually made. I did not include other suggested changes that I discussed but have not applied yet.
+
+At this stage, I decided to simplify the project scope so the development plan would be more realistic and easier to manage. This fits better with the module’s emphasis on a focused, achievable vertical slice and clear evidence of progress on GitHub, rather than simply aiming for a bigger game.
+
+1. Multiplayer is no longer the active priority
+
+In the earlier version of the project plan, multiplayer versus combat was treated as the main production focus. The design draft included room creation, joining, ready states, round flow, and rematch as part of the core gameplay structure. Later, I decided to remove multiplayer from the active development path in the Kanban so that the project would be easier to complete within a more realistic scope.
+
+Because of this change, multiplayer-related tasks are no longer treated as current production priorities on the board.
+
+2. The Kanban now focuses on a single-player version
+
+After removing multiplayer from the active plan, I shifted the Kanban toward a single-player version of the game. This means the board now focuses more clearly on building a playable solo combat experience instead of a versus experience.
+
+The main gameplay focus remains the same in terms of combat identity: third-person sword fighting, lock-on combat, blocking, dodging, parrying, posture pressure, and punish opportunities. What changed is the overall delivery focus. The Kanban is now organised around a smaller single-player vertical slice rather than a multiplayer prototype.
+
+3. Loadout is still in the project, but it is now low priority
+
+The Loadout System has not been removed from the project, but I moved it down to the lowest priority in the Kanban. This was done so that customisation features would not distract from the more important gameplay work.
+
+In other words, loadout is still something I may work on later, but it is no longer part of the main development path right now. The current board is mainly focused on the systems that are necessary to make the core game playable first.
+
+4. The board is now more focused on the core playable slice
+
+After these adjustments, the Kanban is more clearly focused on the parts of the game that matter most for the current version:
+
+core combat systems,
+single-player flow,
+arena and presentation work,
+and basic user interface / gameplay feedback.
+
+This makes the board more practical and better aligned with the goal of producing a smaller but more complete and manageable vertical slice. That is also closer to what the module is asking for: steady development, clear planning, and a project that shows real progress over time.
