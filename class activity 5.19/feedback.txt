@@ -1,0 +1,17 @@
+Yanshuo Liu:
+Your current design is much clearer and more realistic after reducing the scope. Focusing on a single-player vertical slice makes the project easier to manage, and the samurai duel idea is still strong and distinctive. 
+I especially like the posture and parry focus. My suggestion is to prioritise the combat feel first, because that will define the quality of the whole experience.
+
+Yvzhuo Yuan:
+I think the concept has a strong identity now. The Japanese-inspired duel setting, third-person camera, and close-range sword combat already make the game feel memorable. 
+It is also good that you are thinking about the menu and game flow, not only the combat. One suggestion is to make sure the front-end screens are simple but polished, so the project feels complete.
+
+Yixuan Liu:
+The combat system sounds interesting because it is not just about attacking, but also about timing, defense, and pressure. 
+That gives the game more depth than a simple action prototype. I also think reducing the loadout system to a low priority was a smart choice. 
+My main suggestion is to make the enemy behaviour believable enough to support the duel atmosphere.
+
+Qiying Huang:
+Your updated plan feels much more focused, and that is a big strength. The project now seems more achievable while still keeping its core identity. ]
+I like that you kept the most unique mechanics, such as lock-on combat, parry, and posture breaking. 
+My suggestion is to make the arena mood and UI feedback strong, because presentation will really help sell the experience.
