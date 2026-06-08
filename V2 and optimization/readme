@@ -1,0 +1,6 @@
+1. Practice mode was repaired and professionalized: runtime stats panel, key guide, pause/continue/main-menu flow, practice difficulty switching, and non-lethal training enemy behavior.
+2. Formal mode was introduced with `maingame`, menu Start/Continue/Records/Difficulty flow, build settings update, and a staged encounter controller.
+3. Main-game structure was expanded: level progress, enemy waves, boss step, score/progress storage, result flow, and lightweight player growth values.
+4. Enemy behavior was refined: state machine expansion, patrol/return logic, alert/chase/strafe/attack/defend/evade/stagger flow, and difficulty/type profiles.
+5. Enemy presentation was refined: runtime enemy visual prefabs, Arashi normal/guard/elite visuals, GuoJing boss visual bridge, and Animator-safe visual driving.
+6. UI polish was applied: rectangular runtime UI borders, main-game HUD, guard/health/objective/result displays, and practice HUD fixes.
