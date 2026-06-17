@@ -1,0 +1,1755 @@
+﻿.gitignore
+Assets\_sucaiFromOthers.meta
+Assets\_sucaiFromOthers\_Prefab.meta
+Assets\_sucaiFromOthers\_Prefab\SwordMan.prefab
+Assets\_sucaiFromOthers\_Prefab\SwordMan.prefab.meta
+Assets\_sucaiFromOthers\Crusader knight.meta
+Assets\_sucaiFromOthers\Crusader knight\3_1H_Swords.meta
+Assets\_sucaiFromOthers\Crusader knight\3_1H_Swords\1H_sword_C.FBX
+Assets\_sucaiFromOthers\Crusader knight\3_1H_Swords\1H_sword_C.FBX.meta
+Assets\_sucaiFromOthers\Crusader knight\3_1H_Swords\Materials.meta
+Assets\_sucaiFromOthers\Crusader knight\3_1H_Swords\Materials\1H_Sword_C_color.mat
+Assets\_sucaiFromOthers\Crusader knight\3_1H_Swords\Materials\1H_Sword_C_color.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\3_1H_Swords\textures.meta
+Assets\_sucaiFromOthers\Crusader knight\3_1H_Swords\textures\1H_Sword_C_color.tif
+Assets\_sucaiFromOthers\Crusader knight\3_1H_Swords\textures\1H_Sword_C_color.tif.meta
+Assets\_sucaiFromOthers\Crusader knight\3_1H_Swords\textures\1H_Sword_C_normals.tif
+Assets\_sucaiFromOthers\Crusader knight\3_1H_Swords\textures\1H_Sword_C_normals.tif.meta
+Assets\_sucaiFromOthers\Crusader knight\3_Heater_Shields.meta
+Assets\_sucaiFromOthers\Crusader knight\3_Heater_Shields\Heater_A.FBX
+Assets\_sucaiFromOthers\Crusader knight\3_Heater_Shields\Heater_A.FBX.meta
+Assets\_sucaiFromOthers\Crusader knight\3_Heater_Shields\Materials.meta
+Assets\_sucaiFromOthers\Crusader knight\3_Heater_Shields\Materials\Heater_A_color.mat
+Assets\_sucaiFromOthers\Crusader knight\3_Heater_Shields\Materials\Heater_A_color.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\3_Heater_Shields\Textures.meta
+Assets\_sucaiFromOthers\Crusader knight\3_Heater_Shields\Textures\Heater_A_color.tif
+Assets\_sucaiFromOthers\Crusader knight\3_Heater_Shields\Textures\Heater_A_color.tif.meta
+Assets\_sucaiFromOthers\Crusader knight\3_Heater_Shields\Textures\Heater_A_normals.tif
+Assets\_sucaiFromOthers\Crusader knight\3_Heater_Shields\Textures\Heater_A_normals.tif.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\base mesh.fbx
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\base mesh.fbx.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\lambert1.mat
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\lambert1.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong1.mat
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong1.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong10.mat
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong10.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong11.mat
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong11.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong3.mat
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong3.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong4.mat
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong4.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong5.mat
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong5.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong6.mat
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong6.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong7.mat
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong7.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong8.mat
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong8.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong9.mat
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Materials\phong9.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Player.prefab
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\Player.prefab.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\weapon4.fbx
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\weapon4.fbx.meta
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\weapon4_D.png
+Assets\_sucaiFromOthers\Crusader knight\Base mesh\weapon4_D.png.meta
+Assets\_sucaiFromOthers\Crusader knight\materials.meta
+Assets\_sucaiFromOthers\Crusader knight\materials\armor.mat
+Assets\_sucaiFromOthers\Crusader knight\materials\armor.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\materials\axe.mat
+Assets\_sucaiFromOthers\Crusader knight\materials\axe.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\materials\Body.mat
+Assets\_sucaiFromOthers\Crusader knight\materials\Body.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\materials\collar.mat
+Assets\_sucaiFromOthers\Crusader knight\materials\collar.mat.meta
+Assets\_sucaiFromOthers\Crusader knight\stand.meta
+Assets\_sucaiFromOthers\Crusader knight\stand\Materials.meta
+Assets\_sucaiFromOthers\Crusader knight\stand\Materials\Standard_Two_Sided .shader
+Assets\_sucaiFromOthers\Crusader knight\stand\Materials\Standard_Two_Sided .shader.meta
+Assets\_sucaiFromOthers\Crusader knight\textures.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_armor_Albedo.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_armor_Albedo.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_armor_Metallic.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_armor_Metallic.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_armor_Normal.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_armor_Normal.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_armor_Occlusion.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_armor_Occlusion.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_axe_Albedo.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_axe_Albedo.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_axe_Metallic.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_axe_Metallic.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_axe_Normal.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_axe_Normal.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_axe_Occlusion.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_axe_Occlusion.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_body_Albedo.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_body_Albedo.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_body_Metallic.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_body_Metallic.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_body_Normal.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_body_Normal.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_body_Occlusion.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_body_Occlusion.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_collar_Albedo.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_collar_Albedo.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_collar_Metallic.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_collar_Metallic.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_collar_Normal.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_collar_Normal.tga.meta
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_collar_Occlusion.tga
+Assets\_sucaiFromOthers\Crusader knight\textures\crusader_collar_Occlusion.tga.meta
+Assets\_sucaiFromOthers\Cursed Priest.meta
+Assets\_sucaiFromOthers\Cursed Priest\Materials.meta
+Assets\_sucaiFromOthers\Cursed Priest\Materials\Accesories.mat
+Assets\_sucaiFromOthers\Cursed Priest\Materials\Accesories.mat.meta
+Assets\_sucaiFromOthers\Cursed Priest\Materials\Body.mat
+Assets\_sucaiFromOthers\Cursed Priest\Materials\Body.mat.meta
+Assets\_sucaiFromOthers\Cursed Priest\Materials\Head.mat
+Assets\_sucaiFromOthers\Cursed Priest\Materials\Head.mat.meta
+Assets\_sucaiFromOthers\Cursed Priest\Materials\Upper.mat
+Assets\_sucaiFromOthers\Cursed Priest\Materials\Upper.mat.meta
+Assets\_sucaiFromOthers\Cursed Priest\Mesh.meta
+Assets\_sucaiFromOthers\Cursed Priest\Mesh\Priest.fbx
+Assets\_sucaiFromOthers\Cursed Priest\Mesh\Priest.fbx.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Accesories_AO.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Accesories_AO.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Body_AO.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Body_AO.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Head_AO.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Head_AO.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Accesories_AlbedoTransparency.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Accesories_AlbedoTransparency.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Accesories_MetallicSmoothness.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Accesories_MetallicSmoothness.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Accesories_Normal.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Accesories_Normal.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Body_AlbedoTransparency.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Body_AlbedoTransparency.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Body_MetallicSmoothness.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Body_MetallicSmoothness.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Body_Normal.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Body_Normal.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Head_AlbedoTransparency.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Head_AlbedoTransparency.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Head_MetallicSmoothness.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Head_MetallicSmoothness.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Head_Normal.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Head_Normal.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Upper_AlbedoTransparency.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Upper_AlbedoTransparency.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Upper_MetallicSmoothness.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Upper_MetallicSmoothness.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Upper_Normal.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Priest_Upper_Normal.png.meta
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Upper_AO.png
+Assets\_sucaiFromOthers\Cursed Priest\Textures\Upper_AO.png.meta
+Assets\_sucaiFromOthers\Swordman.meta
+Assets\_sucaiFromOthers\Swordman\1212.FBX
+Assets\_sucaiFromOthers\Swordman\1212.FBX.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\00_T-pose.FBX
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\00_T-pose.FBX.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\attack04.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\attack04.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\attack07.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\attack07.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\B_idle01.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\B_idle01.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_01.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_01.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_02.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_02.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_03.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_03.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_04.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_04.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_05.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_05.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_06.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_06.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_08.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_08.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_09.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\combo_09.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\Inplace.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\Inplace\defence01_inplace.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\Inplace\defence01_inplace.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\Inplace\jump_inplace.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\Inplace\jump_inplace.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\run_back.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\run_back.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\run_front.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\Animation\Humanoid\run_front.fbx.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\cloch2.mat
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\cloch2.mat.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\cloth.mat
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\cloth.mat.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\Common_Eyelash_D(Type-01).tga
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\Common_Eyelash_D(Type-01).tga.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\Common_Eyelash_D(Type-02).tga
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\Common_Eyelash_D(Type-02).tga.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\Common_Mouth_D.png
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\Common_Mouth_D.png.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\elsh.mat
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\elsh.mat.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\eye.mat
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\eye.mat.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\face.mat
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\face.mat.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\hire.mat
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\hire.mat.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\mouse.mat
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\mouse.mat.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\skin.mat
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\skin.mat.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Cloth01_D-cut.png
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Cloth01_D-cut.png.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Cloth01_L.png
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Cloth01_L.png.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Cloth02_D-cut.png
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Cloth02_D-cut.png.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Cloth02_E.png
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Cloth02_E.png.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Cloth02_N.png
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Cloth02_N.png.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Eye_D.png
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Eye_D.png.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Face_D.png
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Face_D.png.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Face_L.png
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Face_L.png.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Face_N.png
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Face_N.png.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Hair_D-cut.png
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Hair_D-cut.png.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Hand_D.png
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\TaishiZ_Hand_D.png.meta
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\untitled@Unarmed Walk Back.fbx
+Assets\_sucaiFromOthers\Swordman\Oriental_Sword\新建文件夹\untitled@Unarmed Walk Back.fbx.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\attack_04.FBX
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\attack_04.FBX.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\combo_01.FBX
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\combo_01.FBX.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\combo_02.FBX
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\combo_02.FBX.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\combo_03.FBX
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\combo_03.FBX.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\combo_04.FBX
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\combo_04.FBX.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\combo_06.FBX
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\combo_06.FBX.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\04 - Default.mat
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\04 - Default.mat.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\05 - Default.mat
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\05 - Default.mat.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\06 - Default.mat
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\06 - Default.mat.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\07 - Default.mat
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\07 - Default.mat.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\09 - Default.mat
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\09 - Default.mat.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\14 - Default.mat
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\14 - Default.mat.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\Material #12.mat
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\Material #12.mat.meta
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\Material #157.mat
+Assets\_sucaiFromOthers\Swordman\RapierAnimSet\Animation\humanoid\Materials\Material #157.mat.meta
+Assets\_sucaiFromOthers\Swordman\SwordsmanCon.controller
+Assets\_sucaiFromOthers\Swordman\SwordsmanCon.controller.meta
+Assets\_sucaiFromOthers\Swordman\tex.meta
+Assets\_sucaiFromOthers\Swordman\tex\01_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\01_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\02_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\02_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\03_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\03_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\04_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\04_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\05_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\05_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\06_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\06_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\07_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\07_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\08_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\08_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\09_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\09_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\10_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\10_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\11_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\11_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\12_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\12_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\16_sword.png
+Assets\_sucaiFromOthers\Swordman\tex\16_sword.png.meta
+Assets\_sucaiFromOthers\Swordman\tex\新建材质.mat
+Assets\_sucaiFromOthers\Swordman\tex\新建材质.mat.meta
+Assets\_yyf.meta
+Assets\_yyf\Animations.meta
+Assets\_yyf\Animations\Rolls.meta
+Assets\_yyf\Animations\Rolls\roll_backwards.anim
+Assets\_yyf\Animations\Rolls\roll_backwards.anim.meta
+Assets\_yyf\Animations\Rolls\roll_backwards_left.anim
+Assets\_yyf\Animations\Rolls\roll_backwards_left.anim.meta
+Assets\_yyf\Animations\Rolls\roll_backwards_right.anim
+Assets\_yyf\Animations\Rolls\roll_backwards_right.anim.meta
+Assets\_yyf\Animations\Rolls\roll_forward.anim
+Assets\_yyf\Animations\Rolls\roll_forward.anim.meta
+Assets\_yyf\Animations\Rolls\roll_forward_left.anim
+Assets\_yyf\Animations\Rolls\roll_forward_left.anim.meta
+Assets\_yyf\Animations\Rolls\roll_forward_right.anim
+Assets\_yyf\Animations\Rolls\roll_forward_right.anim.meta
+Assets\_yyf\Animations\Rolls\roll_left.anim
+Assets\_yyf\Animations\Rolls\roll_left.anim.meta
+Assets\_yyf\Animations\Rolls\roll_right.anim
+Assets\_yyf\Animations\Rolls\roll_right.anim.meta
+Assets\_yyf\Script.meta
+Assets\_yyf\Script\ClearThisFlagAnimState.cs
+Assets\_yyf\Script\ClearThisFlagAnimState.cs.meta
+Assets\Animations.meta
+Assets\Animations\Enemy.meta
+Assets\Animations\Enemy\Armed-Idle.anim
+Assets\Animations\Enemy\Armed-Idle.anim.meta
+Assets\Animations\Enemy\Enemy.prefab
+Assets\Animations\Enemy\Enemy.prefab.meta
+Assets\Animations\Enemy\Sword-Attack-R4.anim
+Assets\Animations\Enemy\Sword-Attack-R4.anim.meta
+Assets\Animations\Player.meta
+Assets\Animations\Player\Attack.meta
+Assets\Animations\Player\Attack\Attack_Hold.anim
+Assets\Animations\Player\Attack\Attack_Hold.anim.meta
+Assets\Animations\Player\Attack\Attack_Start.anim
+Assets\Animations\Player\Attack\Attack_Start.anim.meta
+Assets\Animations\Player\Attack\Attack1.anim
+Assets\Animations\Player\Attack\Attack1.anim.meta
+Assets\Animations\Player\Attack\Attack2.anim
+Assets\Animations\Player\Attack\Attack2.anim.meta
+Assets\Animations\Player\Attack\HeavyAttack.anim
+Assets\Animations\Player\Attack\HeavyAttack.anim.meta
+Assets\Animations\Player\Hit.meta
+Assets\Animations\Player\Hit\Armed-Death1.anim
+Assets\Animations\Player\Hit\Armed-Death1.anim.meta
+Assets\Animations\Player\Hit\Armed-GetHit-F1.anim
+Assets\Animations\Player\Hit\Armed-GetHit-F1.anim.meta
+Assets\Animations\Player\Move.meta
+Assets\Animations\Player\Move\Idle.anim
+Assets\Animations\Player\Move\Idle.anim.meta
+Assets\Animations\Player\Move\Run_B.anim
+Assets\Animations\Player\Move\Run_B.anim.meta
+Assets\Animations\Player\Move\Run_BL.anim
+Assets\Animations\Player\Move\Run_BL.anim.meta
+Assets\Animations\Player\Move\Run_BR.anim
+Assets\Animations\Player\Move\Run_BR.anim.meta
+Assets\Animations\Player\Move\Run_F.anim
+Assets\Animations\Player\Move\Run_F.anim.meta
+Assets\Animations\Player\Move\Run_FL.anim
+Assets\Animations\Player\Move\Run_FL.anim.meta
+Assets\Animations\Player\Move\Run_FR.anim
+Assets\Animations\Player\Move\Run_FR.anim.meta
+Assets\Animations\Player\Move\Run_L.anim
+Assets\Animations\Player\Move\Run_L.anim.meta
+Assets\Animations\Player\Move\Run_R.anim
+Assets\Animations\Player\Move\Run_R.anim.meta
+Assets\Animations\Player\Move\Walk_B.anim
+Assets\Animations\Player\Move\Walk_B.anim.meta
+Assets\Animations\Player\Move\Walk_BL.anim
+Assets\Animations\Player\Move\Walk_BL.anim.meta
+Assets\Animations\Player\Move\Walk_BR.anim
+Assets\Animations\Player\Move\Walk_BR.anim.meta
+Assets\Animations\Player\Move\Walk_F.anim
+Assets\Animations\Player\Move\Walk_F.anim.meta
+Assets\Animations\Player\Move\Walk_FL.anim
+Assets\Animations\Player\Move\Walk_FL.anim.meta
+Assets\Animations\Player\Move\Walk_FR.anim
+Assets\Animations\Player\Move\Walk_FR.anim.meta
+Assets\Animations\Player\Move\Walk_L.anim
+Assets\Animations\Player\Move\Walk_L.anim.meta
+Assets\Animations\Player\Move\Walk_R.anim
+Assets\Animations\Player\Move\Walk_R.anim.meta
+Assets\Animator.meta
+Assets\Animator\Enemy.overrideController
+Assets\Animator\Enemy.overrideController.meta
+Assets\Animator\Player.controller
+Assets\Animator\Player.controller.meta
+Assets\Arashi_Character.meta
+Assets\Arashi_Character\Animation.meta
+Assets\Arashi_Character\Animation\Player.controller
+Assets\Arashi_Character\Animation\Player.controller.meta
+Assets\Arashi_Character\Materials.meta
+Assets\Arashi_Character\Materials\Arashi_BaseColor 2.mat
+Assets\Arashi_Character\Materials\Arashi_BaseColor 2.mat.meta
+Assets\Arashi_Character\Materials\Arashi_BaseColor 3.mat
+Assets\Arashi_Character\Materials\Arashi_BaseColor 3.mat.meta
+Assets\Arashi_Character\Materials\Arashi_BaseColor 4.mat
+Assets\Arashi_Character\Materials\Arashi_BaseColor 4.mat.meta
+Assets\Arashi_Character\Materials\Arashi_BaseColor 5.mat
+Assets\Arashi_Character\Materials\Arashi_BaseColor 5.mat.meta
+Assets\Arashi_Character\Materials\Arashi_BaseColor.mat
+Assets\Arashi_Character\Materials\Arashi_BaseColor.mat.meta
+Assets\Arashi_Character\Materials\Floor.mat
+Assets\Arashi_Character\Materials\Floor.mat.meta
+Assets\Arashi_Character\Meshes.meta
+Assets\Arashi_Character\Meshes\SK_Arashi.controller
+Assets\Arashi_Character\Meshes\SK_Arashi.controller.meta
+Assets\Arashi_Character\Meshes\SK_Arashi.fbm.meta
+Assets\Arashi_Character\Meshes\SK_Arashi.fbm\Arashi_BaseColor.tga
+Assets\Arashi_Character\Meshes\SK_Arashi.fbm\Arashi_BaseColor.tga.meta
+Assets\Arashi_Character\Meshes\SK_Arashi.fbm\Arashi_Normal.tga
+Assets\Arashi_Character\Meshes\SK_Arashi.fbm\Arashi_Normal.tga.meta
+Assets\Arashi_Character\Meshes\SK_Arashi.fbx
+Assets\Arashi_Character\Meshes\SK_Arashi.fbx.meta
+Assets\Arashi_Character\Meshes\SM_Bearded.fbx
+Assets\Arashi_Character\Meshes\SM_Bearded.fbx.meta
+Assets\Arashi_Character\Meshes\SM_BottleWine.fbx
+Assets\Arashi_Character\Meshes\SM_BottleWine.fbx.meta
+Assets\Arashi_Character\Meshes\SM_Hat.fbx
+Assets\Arashi_Character\Meshes\SM_Hat.fbx.meta
+Assets\Arashi_Character\Meshes\SM_Katana.fbx
+Assets\Arashi_Character\Meshes\SM_Katana.fbx.meta
+Assets\Arashi_Character\Meshes\SM_Katana_2.fbx
+Assets\Arashi_Character\Meshes\SM_Katana_2.fbx.meta
+Assets\Arashi_Character\Meshes\SM_Sode.fbx
+Assets\Arashi_Character\Meshes\SM_Sode.fbx.meta
+Assets\Arashi_Character\Meshes\SM_Tail.fbx
+Assets\Arashi_Character\Meshes\SM_Tail.fbx.meta
+Assets\Arashi_Character\Prefab.meta
+Assets\Arashi_Character\Prefab\Canvas.prefab
+Assets\Arashi_Character\Prefab\Canvas.prefab.meta
+Assets\Arashi_Character\Prefab\Character_Color_01.prefab
+Assets\Arashi_Character\Prefab\Character_Color_01.prefab.meta
+Assets\Arashi_Character\Prefab\Character_Color_02.prefab
+Assets\Arashi_Character\Prefab\Character_Color_02.prefab.meta
+Assets\Arashi_Character\Prefab\Character_Color_03.prefab
+Assets\Arashi_Character\Prefab\Character_Color_03.prefab.meta
+Assets\Arashi_Character\Prefab\Character_Color_04.prefab
+Assets\Arashi_Character\Prefab\Character_Color_04.prefab.meta
+Assets\Arashi_Character\Prefab\Character_Color_05.prefab
+Assets\Arashi_Character\Prefab\Character_Color_05.prefab.meta
+Assets\Arashi_Character\Prefab\Floor.prefab
+Assets\Arashi_Character\Prefab\Floor.prefab.meta
+Assets\Arashi_Character\Scene.meta
+Assets\Arashi_Character\Scene\Overview.unity
+Assets\Arashi_Character\Scene\Overview.unity.meta
+Assets\Arashi_Character\Scene\OverviewSettings.lighting
+Assets\Arashi_Character\Scene\OverviewSettings.lighting.meta
+Assets\Arashi_Character\Scrip.meta
+Assets\Arashi_Character\Scrip\ChanceWeapon.cs
+Assets\Arashi_Character\Scrip\ChanceWeapon.cs.meta
+Assets\Arashi_Character\Scrip\Player.cs
+Assets\Arashi_Character\Scrip\Player.cs.meta
+Assets\Arashi_Character\Textures.meta
+Assets\Arashi_Character\Textures\Arashi_Albedo.tga
+Assets\Arashi_Character\Textures\Arashi_Albedo.tga.meta
+Assets\Arashi_Character\Textures\Arashi_Metallic.tga
+Assets\Arashi_Character\Textures\Arashi_Metallic.tga.meta
+Assets\Arashi_Character\Textures\Arashi_Normal.tga
+Assets\Arashi_Character\Textures\Arashi_Normal.tga.meta
+Assets\Arashi_Character\Textures\Arashi_Occlusion.tga
+Assets\Arashi_Character\Textures\Arashi_Occlusion.tga.meta
+Assets\Arashi_Character\Textures\BodyOption_Color.meta
+Assets\Arashi_Character\Textures\BodyOption_Color\Arashi2_BaseColor.tga
+Assets\Arashi_Character\Textures\BodyOption_Color\Arashi2_BaseColor.tga.meta
+Assets\Arashi_Character\Textures\BodyOption_Color\Arashi3_BaseColor.tga
+Assets\Arashi_Character\Textures\BodyOption_Color\Arashi3_BaseColor.tga.meta
+Assets\Arashi_Character\Textures\BodyOption_Color\Arashi4_BaseColor.tga
+Assets\Arashi_Character\Textures\BodyOption_Color\Arashi4_BaseColor.tga.meta
+Assets\Arashi_Character\Textures\BodyOption_Color\Arashi5_BaseColor.tga
+Assets\Arashi_Character\Textures\BodyOption_Color\Arashi5_BaseColor.tga.meta
+Assets\Arashi_Character\Textures\Floor.meta
+Assets\Arashi_Character\Textures\Floor\grid.png
+Assets\Arashi_Character\Textures\Floor\grid.png.meta
+Assets\BG_material.meta
+Assets\BG_material\BG1.fbm.meta
+Assets\BG_material\BG1.fbm\地板.dds
+Assets\BG_material\BG1.fbm\地板.dds.meta
+Assets\BG_material\BG1.fbm\耿洛阳仓库01.DDS
+Assets\BG_material\BG1.fbm\耿洛阳仓库01.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳仓库门石台.DDS
+Assets\BG_material\BG1.fbm\耿洛阳仓库门石台.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳仓库墙饰.dds
+Assets\BG_material\BG1.fbm\耿洛阳仓库墙饰.dds.meta
+Assets\BG_material\BG1.fbm\耿洛阳仓库石柱.DDS
+Assets\BG_material\BG1.fbm\耿洛阳仓库石柱.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳仓库台阶.DDS
+Assets\BG_material\BG1.fbm\耿洛阳仓库台阶.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳仓库瓦.dds
+Assets\BG_material\BG1.fbm\耿洛阳仓库瓦.dds.meta
+Assets\BG_material\BG1.fbm\耿洛阳仓库檐.DDS
+Assets\BG_material\BG1.fbm\耿洛阳仓库檐.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳仓库檐饰.DDS
+Assets\BG_material\BG1.fbm\耿洛阳仓库檐饰.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳仓库柱.DDS
+Assets\BG_material\BG1.fbm\耿洛阳仓库柱.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳仓库砖.DDS
+Assets\BG_material\BG1.fbm\耿洛阳仓库砖.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳仓库砖02.DDS
+Assets\BG_material\BG1.fbm\耿洛阳仓库砖02.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院01.dds
+Assets\BG_material\BG1.fbm\耿洛阳四合院01.dds.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院地毯.dds
+Assets\BG_material\BG1.fbm\耿洛阳四合院地毯.dds.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院花柱.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院花柱.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院栏杆.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院栏杆.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院栏杆02.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院栏杆02.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院门饰01.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院门饰01.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院木件.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院木件.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院木件01.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院木件01.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院墙.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院墙.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院墙01.dds
+Assets\BG_material\BG1.fbm\耿洛阳四合院墙01.dds.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院墙02.dds
+Assets\BG_material\BG1.fbm\耿洛阳四合院墙02.dds.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院墙03.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院墙03.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院墙04.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院墙04.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院墙05.dds
+Assets\BG_material\BG1.fbm\耿洛阳四合院墙05.dds.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院山墙.dds
+Assets\BG_material\BG1.fbm\耿洛阳四合院山墙.dds.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院屋檐.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院屋檐.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院戏楼01.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院戏楼01.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院戏楼02.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院戏楼02.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院戏楼窗.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院戏楼窗.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院戏楼幕帘.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院戏楼幕帘.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院戏楼柱.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院戏楼柱.DDS.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院戏台.dds
+Assets\BG_material\BG1.fbm\耿洛阳四合院戏台.dds.meta
+Assets\BG_material\BG1.fbm\耿洛阳四合院柱子.DDS
+Assets\BG_material\BG1.fbm\耿洛阳四合院柱子.DDS.meta
+Assets\BG_material\BG1.fbm\楼梯.DDS
+Assets\BG_material\BG1.fbm\楼梯.DDS.meta
+Assets\BG_material\BG1.fbm\田笑傲洛阳黑市墙4.dds
+Assets\BG_material\BG1.fbm\田笑傲洛阳黑市墙4.dds.meta
+Assets\BG_material\BG1.fbm\张洛阳客栈灯笼.dds
+Assets\BG_material\BG1.fbm\张洛阳客栈灯笼.dds.meta
+Assets\BG_material\BG1.fbm\张洛阳钱庄门.dds
+Assets\BG_material\BG1.fbm\张洛阳钱庄门.dds.meta
+Assets\BG_material\BG3.fbm.meta
+Assets\BG_material\BG3.fbm\1.meta
+Assets\BG_material\BG3.fbm\1\耿洛阳仓库瓦.dds
+Assets\BG_material\BG3.fbm\1\耿洛阳仓库瓦.dds.meta
+Assets\BG_material\BG3.fbm\1\耿洛阳仓库檐饰.DDS
+Assets\BG_material\BG3.fbm\1\耿洛阳仓库檐饰.DDS.meta
+Assets\BG_material\BG3.fbm\地板.dds
+Assets\BG_material\BG3.fbm\地板.dds.meta
+Assets\BG_material\BG3.fbm\耿洛阳仓库01.DDS
+Assets\BG_material\BG3.fbm\耿洛阳仓库01.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳仓库门石台.DDS
+Assets\BG_material\BG3.fbm\耿洛阳仓库门石台.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳仓库墙饰.dds
+Assets\BG_material\BG3.fbm\耿洛阳仓库墙饰.dds.meta
+Assets\BG_material\BG3.fbm\耿洛阳仓库石柱.DDS
+Assets\BG_material\BG3.fbm\耿洛阳仓库石柱.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳仓库台阶.DDS
+Assets\BG_material\BG3.fbm\耿洛阳仓库台阶.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳仓库瓦.dds
+Assets\BG_material\BG3.fbm\耿洛阳仓库瓦.dds.meta
+Assets\BG_material\BG3.fbm\耿洛阳仓库檐.DDS
+Assets\BG_material\BG3.fbm\耿洛阳仓库檐.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳仓库檐饰.DDS
+Assets\BG_material\BG3.fbm\耿洛阳仓库檐饰.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳仓库柱.DDS
+Assets\BG_material\BG3.fbm\耿洛阳仓库柱.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳仓库砖.DDS
+Assets\BG_material\BG3.fbm\耿洛阳仓库砖.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳仓库砖02.DDS
+Assets\BG_material\BG3.fbm\耿洛阳仓库砖02.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院01.dds
+Assets\BG_material\BG3.fbm\耿洛阳四合院01.dds.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院地毯.dds
+Assets\BG_material\BG3.fbm\耿洛阳四合院地毯.dds.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院花柱.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院花柱.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院栏杆.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院栏杆.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院栏杆02.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院栏杆02.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院门饰01.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院门饰01.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院木件.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院木件.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院木件01.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院木件01.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院墙.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院墙.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院墙01.dds
+Assets\BG_material\BG3.fbm\耿洛阳四合院墙01.dds.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院墙02.dds
+Assets\BG_material\BG3.fbm\耿洛阳四合院墙02.dds.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院墙03.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院墙03.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院墙04.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院墙04.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院墙05.dds
+Assets\BG_material\BG3.fbm\耿洛阳四合院墙05.dds.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院山墙.dds
+Assets\BG_material\BG3.fbm\耿洛阳四合院山墙.dds.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院屋檐.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院屋檐.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院戏楼01.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院戏楼01.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院戏楼02.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院戏楼02.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院戏楼窗.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院戏楼窗.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院戏楼幕帘.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院戏楼幕帘.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院戏楼柱.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院戏楼柱.DDS.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院戏台.dds
+Assets\BG_material\BG3.fbm\耿洛阳四合院戏台.dds.meta
+Assets\BG_material\BG3.fbm\耿洛阳四合院柱子.DDS
+Assets\BG_material\BG3.fbm\耿洛阳四合院柱子.DDS.meta
+Assets\BG_material\BG3.fbm\楼梯.DDS
+Assets\BG_material\BG3.fbm\楼梯.DDS.meta
+Assets\BG_material\BG3.fbm\田笑傲洛阳黑市墙4.dds
+Assets\BG_material\BG3.fbm\田笑傲洛阳黑市墙4.dds.meta
+Assets\BG_material\BG3.fbm\张洛阳客栈灯笼.dds
+Assets\BG_material\BG3.fbm\张洛阳客栈灯笼.dds.meta
+Assets\BG_material\BG3.fbm\张洛阳钱庄门.dds
+Assets\BG_material\BG3.fbm\张洛阳钱庄门.dds.meta
+Assets\BG_material\BG3.fbx
+Assets\BG_material\BG3.fbx.meta
+Assets\BG_material\game_floor.png
+Assets\BG_material\game_floor.png.meta
+Assets\BG_material\insidedomeunlit.shader
+Assets\BG_material\insidedomeunlit.shader.meta
+Assets\BG_material\m_backdropdome_inside.mat
+Assets\BG_material\m_backdropdome_inside.mat.meta
+Assets\BG_material\m_ground_stone.mat
+Assets\BG_material\m_ground_stone.mat.meta
+Assets\BG_material\Materials.meta
+Assets\BG_material\Materials\game_bg.png
+Assets\BG_material\Materials\game_bg.png.meta
+Assets\BG_material\Materials\地板.mat
+Assets\BG_material\Materials\地板.mat.meta
+Assets\BG_material\Materials\耿洛阳仓库01.mat
+Assets\BG_material\Materials\耿洛阳仓库01.mat.meta
+Assets\BG_material\Materials\耿洛阳仓库门石台.mat
+Assets\BG_material\Materials\耿洛阳仓库门石台.mat.meta
+Assets\BG_material\Materials\耿洛阳仓库墙饰.mat
+Assets\BG_material\Materials\耿洛阳仓库墙饰.mat.meta
+Assets\BG_material\Materials\耿洛阳仓库石柱.mat
+Assets\BG_material\Materials\耿洛阳仓库石柱.mat.meta
+Assets\BG_material\Materials\耿洛阳仓库台阶.mat
+Assets\BG_material\Materials\耿洛阳仓库台阶.mat.meta
+Assets\BG_material\Materials\耿洛阳仓库瓦.mat
+Assets\BG_material\Materials\耿洛阳仓库瓦.mat.meta
+Assets\BG_material\Materials\耿洛阳仓库檐.mat
+Assets\BG_material\Materials\耿洛阳仓库檐.mat.meta
+Assets\BG_material\Materials\耿洛阳仓库檐饰.mat
+Assets\BG_material\Materials\耿洛阳仓库檐饰.mat.meta
+Assets\BG_material\Materials\耿洛阳仓库柱.mat
+Assets\BG_material\Materials\耿洛阳仓库柱.mat.meta
+Assets\BG_material\Materials\耿洛阳仓库砖.mat
+Assets\BG_material\Materials\耿洛阳仓库砖.mat.meta
+Assets\BG_material\Materials\耿洛阳仓库砖02.mat
+Assets\BG_material\Materials\耿洛阳仓库砖02.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院01.mat
+Assets\BG_material\Materials\耿洛阳四合院01.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院地毯.mat
+Assets\BG_material\Materials\耿洛阳四合院地毯.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院花柱.mat
+Assets\BG_material\Materials\耿洛阳四合院花柱.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院栏杆.mat
+Assets\BG_material\Materials\耿洛阳四合院栏杆.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院栏杆02.mat
+Assets\BG_material\Materials\耿洛阳四合院栏杆02.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院门饰01.mat
+Assets\BG_material\Materials\耿洛阳四合院门饰01.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院木件.mat
+Assets\BG_material\Materials\耿洛阳四合院木件.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院木件01.mat
+Assets\BG_material\Materials\耿洛阳四合院木件01.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院墙.mat
+Assets\BG_material\Materials\耿洛阳四合院墙.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院墙01.mat
+Assets\BG_material\Materials\耿洛阳四合院墙01.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院墙02.mat
+Assets\BG_material\Materials\耿洛阳四合院墙02.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院墙03.mat
+Assets\BG_material\Materials\耿洛阳四合院墙03.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院墙04.mat
+Assets\BG_material\Materials\耿洛阳四合院墙04.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院墙05.mat
+Assets\BG_material\Materials\耿洛阳四合院墙05.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院山墙.mat
+Assets\BG_material\Materials\耿洛阳四合院山墙.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院屋檐.mat
+Assets\BG_material\Materials\耿洛阳四合院屋檐.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院戏楼01.mat
+Assets\BG_material\Materials\耿洛阳四合院戏楼01.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院戏楼02.mat
+Assets\BG_material\Materials\耿洛阳四合院戏楼02.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院戏楼窗.mat
+Assets\BG_material\Materials\耿洛阳四合院戏楼窗.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院戏楼幕帘.mat
+Assets\BG_material\Materials\耿洛阳四合院戏楼幕帘.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院戏楼柱.mat
+Assets\BG_material\Materials\耿洛阳四合院戏楼柱.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院戏台.mat
+Assets\BG_material\Materials\耿洛阳四合院戏台.mat.meta
+Assets\BG_material\Materials\耿洛阳四合院柱子.mat
+Assets\BG_material\Materials\耿洛阳四合院柱子.mat.meta
+Assets\BG_material\Materials\楼梯.mat
+Assets\BG_material\Materials\楼梯.mat.meta
+Assets\BG_material\Materials\田笑傲洛阳黑市墙4.mat
+Assets\BG_material\Materials\田笑傲洛阳黑市墙4.mat.meta
+Assets\BG_material\Materials\张洛阳客栈灯笼.mat
+Assets\BG_material\Materials\张洛阳客栈灯笼.mat.meta
+Assets\BG_material\Materials\张洛阳钱庄门.mat
+Assets\BG_material\Materials\张洛阳钱庄门.mat.meta
+Assets\DockThing.meta
+Assets\DockThing\NavMesh-PolygonGrid.asset
+Assets\DockThing\NavMesh-PolygonGrid.asset.meta
+Assets\Editor.meta
+Assets\Editor\HijinModelSetup.cs
+Assets\Editor\HijinModelSetup.cs.meta
+Assets\FT_BloodFX_Vol01.meta
+Assets\FT_BloodFX_Vol01\Blood_Around.prefab
+Assets\FT_BloodFX_Vol01\Blood_Around.prefab.meta
+Assets\FT_BloodFX_Vol01\Material.meta
+Assets\FT_BloodFX_Vol01\Material\Blood03.mat
+Assets\FT_BloodFX_Vol01\Material\Blood03.mat.meta
+Assets\FT_BloodFX_Vol01\Texture.meta
+Assets\FT_BloodFX_Vol01\Texture\Blood03.png
+Assets\FT_BloodFX_Vol01\Texture\Blood03.png.meta
+Assets\GuoJing.meta
+Assets\GuoJing\body.dds
+Assets\GuoJing\body.dds.meta
+Assets\GuoJing\GuoJin.FBX
+Assets\GuoJing\GuoJin.FBX.meta
+Assets\GuoJing\GuoJin@Skill1.FBX
+Assets\GuoJing\GuoJin@Skill1.FBX.meta
+Assets\GuoJing\GuoJin@Skill2.FBX
+Assets\GuoJing\GuoJin@Skill2.FBX.meta
+Assets\GuoJing\GuoJin@Skill3.FBX
+Assets\GuoJing\GuoJin@Skill3.FBX.meta
+Assets\GuoJing\GuoJing.unity
+Assets\GuoJing\GuoJing.unity.meta
+Assets\GuoJing\GuoJingController.controller
+Assets\GuoJing\GuoJingController.controller.meta
+Assets\GuoJing\GuoJingSettings.lighting
+Assets\GuoJing\GuoJingSettings.lighting.meta
+Assets\GuoJing\Materials.meta
+Assets\GuoJing\Materials\闁參娼犻煬顐＄秼.mat
+Assets\GuoJing\Materials\闁參娼犻煬顐＄秼.mat.meta
+Assets\GuoJing\Materials\闁參娼犳鏉挎惂.mat
+Assets\GuoJing\Materials\闁參娼犳鏉挎惂.mat.meta
+Assets\GuoJing\Materials\郭靖身体.mat
+Assets\GuoJing\Materials\郭靖身体.mat.meta
+Assets\GuoJing\Materials\郭靖饰品.mat
+Assets\GuoJing\Materials\郭靖饰品.mat.meta
+Assets\GuoJing\shipin.dds
+Assets\GuoJing\shipin.dds.meta
+Assets\Materials.meta
+Assets\Materials\图1.png
+Assets\Materials\图1.png.meta
+Assets\Materials\图2.png
+Assets\Materials\图2.png.meta
+Assets\Resources.meta
+Assets\Resources\Audio.meta
+Assets\Resources\Audio\BGM.meta
+Assets\Resources\Audio\BGM\BGM_Battle.wav
+Assets\Resources\Audio\BGM\BGM_Battle.wav.meta
+Assets\Resources\Audio\BGM\BGM_BossBattle.wav
+Assets\Resources\Audio\BGM\BGM_BossBattle.wav.meta
+Assets\Resources\Audio\BGM\BGM_MainMenu.wav
+Assets\Resources\Audio\BGM\BGM_MainMenu.wav.meta
+Assets\Resources\Audio\BGM\BGM_PracticeMode.wav
+Assets\Resources\Audio\BGM\BGM_PracticeMode.wav.meta
+Assets\Resources\Audio\BGM\BGM_Story.wav
+Assets\Resources\Audio\BGM\BGM_Story.wav.meta
+Assets\Resources\Audio\SFX.meta
+Assets\Resources\Audio\SFX\SFX_SwordSwing.wav
+Assets\Resources\Audio\SFX\SFX_SwordSwing.wav.meta
+Assets\Resources\defence.wav
+Assets\Resources\defence.wav.meta
+Assets\Resources\EnemyVisuals.meta
+Assets\Resources\EnemyVisuals\Character_Color_01.prefab
+Assets\Resources\EnemyVisuals\Character_Color_01.prefab.meta
+Assets\Resources\EnemyVisuals\Character_Color_02.prefab
+Assets\Resources\EnemyVisuals\Character_Color_02.prefab.meta
+Assets\Resources\EnemyVisuals\Character_Color_05.prefab
+Assets\Resources\EnemyVisuals\Character_Color_05.prefab.meta
+Assets\Resources\EnemyVisuals\Enemy.prefab
+Assets\Resources\EnemyVisuals\Enemy.prefab.meta
+Assets\Resources\EnemyVisuals\GuoJin.prefab
+Assets\Resources\EnemyVisuals\GuoJin.prefab.meta
+Assets\Resources\EnemyVisuals\SwordMan.prefab
+Assets\Resources\EnemyVisuals\SwordMan.prefab.meta
+Assets\Resources\Fonts.meta
+Assets\Resources\Fonts\HIJIN_Style.ttf
+Assets\Resources\Fonts\HIJIN_Style.ttf.meta
+Assets\Resources\SettingsPanelBackground.png
+Assets\Resources\SettingsPanelBackground.png.meta
+Assets\Resources\Skybox.meta
+Assets\Resources\Skybox\game_bg.png
+Assets\Resources\Skybox\game_bg.png.meta
+Assets\Resources\StoryImages.meta
+Assets\Resources\StoryImages\story_01_crescent_dojo_entrance.png
+Assets\Resources\StoryImages\story_01_crescent_dojo_entrance.png.meta
+Assets\Resources\StoryImages\story_02_awakening_katana.png
+Assets\Resources\StoryImages\story_02_awakening_katana.png.meta
+Assets\Resources\StoryImages\story_03_gate_guard_remnant.png
+Assets\Resources\StoryImages\story_03_gate_guard_remnant.png.meta
+Assets\Resources\StoryImages\story_04_memory_reflection.png
+Assets\Resources\StoryImages\story_04_memory_reflection.png.meta
+Assets\Resources\StoryImages\story_05_patrol_lantern_aftermath.png
+Assets\Resources\StoryImages\story_05_patrol_lantern_aftermath.png.meta
+Assets\Resources\StoryImages\story_06_disciple_remnant_after_duel.png
+Assets\Resources\StoryImages\story_06_disciple_remnant_after_duel.png.meta
+Assets\Resources\StoryImages\story_07_moonless_dojo_entrance.png
+Assets\Resources\StoryImages\story_07_moonless_dojo_entrance.png.meta
+Assets\Resources\StoryImages\story_08_shadow_self_final_duel.png
+Assets\Resources\StoryImages\story_08_shadow_self_final_duel.png.meta
+Assets\Resources\StoryImages\story_09_bamboo_patrol_path.png
+Assets\Resources\StoryImages\story_09_bamboo_patrol_path.png.meta
+Assets\Resources\StoryImages\story_10_full_moon_training_standoff.png
+Assets\Resources\StoryImages\story_10_full_moon_training_standoff.png.meta
+Assets\Resources\StoryImages\story_11_dawn_true_ending.png
+Assets\Resources\StoryImages\story_11_dawn_true_ending.png.meta
+Assets\Resources\StoryImages\story_12_bad_ending_loop.png
+Assets\Resources\StoryImages\story_12_bad_ending_loop.png.meta
+Assets\Scenes.meta
+Assets\Scenes\DockThing.unity
+Assets\Scenes\DockThing.unity.meta
+Assets\Scenes\DockThing2.unity
+Assets\Scenes\DockThing2.unity.meta
+Assets\Scenes\maingame.unity
+Assets\Scenes\maingame.unity.meta
+Assets\Scenes\MainMenuScene.unity
+Assets\Scenes\MainMenuScene.unity.meta
+Assets\Scenes\PracticeIntro.unity
+Assets\Scenes\PracticeIntro.unity.meta
+Assets\Scenes\SampleScene.unity
+Assets\Scenes\SampleScene.unity.meta
+Assets\Scenes\TitleScene.unity
+Assets\Scenes\TitleScene.unity.meta
+Assets\Scripts.meta
+Assets\Scripts\BullboardUI.cs
+Assets\Scripts\BullboardUI.cs.meta
+Assets\Scripts\DummyHealth.cs
+Assets\Scripts\DummyHealth.cs.meta
+Assets\Scripts\EnemyController.cs
+Assets\Scripts\EnemyController.cs.meta
+Assets\Scripts\EnemyVisualController.cs
+Assets\Scripts\EnemyVisualController.cs.meta
+Assets\Scripts\GameFontController.cs
+Assets\Scripts\GameFontController.cs.meta
+Assets\Scripts\GameSettingsController.cs
+Assets\Scripts\GameSettingsController.cs.meta
+Assets\Scripts\LockMoveState.cs
+Assets\Scripts\LockMoveState.cs.meta
+Assets\Scripts\MainGameBgmController.cs
+Assets\Scripts\MainGameBgmController.cs.meta
+Assets\Scripts\MainGameEncounterController.cs
+Assets\Scripts\MainGameEncounterController.cs.meta
+Assets\Scripts\MainGameProgress.cs
+Assets\Scripts\MainGameProgress.cs.meta
+Assets\Scripts\MainGameSfxController.cs
+Assets\Scripts\MainGameSfxController.cs.meta
+Assets\Scripts\MainGameSkyboxController.cs
+Assets\Scripts\MainGameSkyboxController.cs.meta
+Assets\Scripts\MainGameUIController.cs
+Assets\Scripts\MainGameUIController.cs.meta
+Assets\Scripts\Manager.meta
+Assets\Scripts\Manager\SceneFlowManager.cs
+Assets\Scripts\Manager\SceneFlowManager.cs.meta
+Assets\Scripts\MenuPanelController.cs
+Assets\Scripts\MenuPanelController.cs.meta
+Assets\Scripts\PlayerActionProfile.cs
+Assets\Scripts\PlayerActionProfile.cs.meta
+Assets\Scripts\playerAttack.cs
+Assets\Scripts\playerAttack.cs.meta
+Assets\Scripts\PlayerController.cs
+Assets\Scripts\PlayerController.cs.meta
+Assets\Scripts\PracticeStatsController.cs
+Assets\Scripts\PracticeStatsController.cs.meta
+Assets\Scripts\simplecamera.cs
+Assets\Scripts\simplecamera.cs.meta
+Assets\Scripts\Test.cs
+Assets\Scripts\Test.cs.meta
+Assets\Scripts\testplayercontrol.cs
+Assets\Scripts\testplayercontrol.cs.meta
+Assets\Scripts\UI.meta
+Assets\Scripts\UI\MenuPanelController.cs
+Assets\Scripts\UI\MenuPanelController.cs.meta
+Assets\Scripts\UI\PauseMenuController.cs
+Assets\Scripts\UI\PauseMenuController.cs.meta
+Assets\Scripts\UI\TitlePageConreoller.cs
+Assets\Scripts\UI\TitlePageConreoller.cs.meta
+Assets\SDF_BasicTrainingStage.meta
+Assets\SDF_BasicTrainingStage\Materials.meta
+Assets\SDF_BasicTrainingStage\Materials\Environments.meta
+Assets\SDF_BasicTrainingStage\Materials\Environments\TrainingStage.meta
+Assets\SDF_BasicTrainingStage\Materials\Environments\TrainingStage\TrainSta_Grid_MAT.mat
+Assets\SDF_BasicTrainingStage\Materials\Environments\TrainingStage\TrainSta_Grid_MAT.mat.meta
+Assets\SDF_BasicTrainingStage\Materials\Environments\TrainingStage\TrainSta_GridGlow_MAT.mat
+Assets\SDF_BasicTrainingStage\Materials\Environments\TrainingStage\TrainSta_GridGlow_MAT.mat.meta
+Assets\SDF_BasicTrainingStage\Mesh.meta
+Assets\SDF_BasicTrainingStage\Mesh\Environment.meta
+Assets\SDF_BasicTrainingStage\Mesh\Environment\TrainingStage.fbx
+Assets\SDF_BasicTrainingStage\Mesh\Environment\TrainingStage.fbx.meta
+Assets\SDF_BasicTrainingStage\PostProcessing.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Attributes.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Attributes\DecoratorAttribute.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Attributes\DecoratorAttribute.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Attributes\PostProcessEditorAttribute.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Attributes\PostProcessEditorAttribute.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\BaseEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\BaseEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Decorators.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Decorators\AttributeDecorator.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Decorators\AttributeDecorator.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Decorators\Decorators.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Decorators\Decorators.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Decorators\TrackballDecorator.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Decorators\TrackballDecorator.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\EffectListEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\EffectListEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\AmbientOcclusionEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\AmbientOcclusionEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\AutoExposureEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\AutoExposureEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\BloomEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\BloomEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\ChromaticAberrationEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\ChromaticAberrationEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\ColorGradingEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\ColorGradingEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\DefaultPostProcessEffectEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\DefaultPostProcessEffectEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\DepthOfFieldEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\DepthOfFieldEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\LensDistortionEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\LensDistortionEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\ScreenSpaceReflectionsEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\ScreenSpaceReflectionsEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\VignetteEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Effects\VignetteEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\PostProcessDebugEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\PostProcessDebugEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\PostProcessEffectBaseEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\PostProcessEffectBaseEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\PostProcessEffectEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\PostProcessEffectEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\PostProcessLayerEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\PostProcessLayerEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\PostProcessProfileEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\PostProcessProfileEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\PostProcessVolumeEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\PostProcessVolumeEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools\CubeLutAssetFactory.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools\CubeLutAssetFactory.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools\CubeLutAssetImporter.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools\CubeLutAssetImporter.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools\DefineSetter.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools\DefineSetter.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools\ProfileFactory.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools\ProfileFactory.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools\ResourceAssetFactory.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools\ResourceAssetFactory.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools\VolumeFactory.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Tools\VolumeFactory.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils\CurveEditor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils\CurveEditor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils\EditorUtilities.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils\EditorUtilities.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils\GlobalSettings.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils\GlobalSettings.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils\PostProcessShaderIncludePath.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils\PostProcessShaderIncludePath.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils\SerializedParameterOverride.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils\SerializedParameterOverride.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils\Styling.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Editor\Utils\Styling.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Gizmos.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Gizmos\PostProcessLayer.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Gizmos\PostProcessLayer.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\PostProcessResources.asset
+Assets\SDF_BasicTrainingStage\PostProcessing\PostProcessResources.asset.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes\DisplayNameAttribute.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes\DisplayNameAttribute.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes\MaxAttribute.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes\MaxAttribute.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes\MinAttribute.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes\MinAttribute.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes\MinMaxAttribute.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes\MinMaxAttribute.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes\PostProcessAttribute.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes\PostProcessAttribute.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes\TrackballAttribute.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Attributes\TrackballAttribute.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\AmbientOcclusion.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\AmbientOcclusion.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\AutoExposure.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\AutoExposure.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\Bloom.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\Bloom.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\ChromaticAberration.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\ChromaticAberration.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\ColorGrading.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\ColorGrading.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\DepthOfField.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\DepthOfField.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\Dithering.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\Dithering.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\FastApproximateAntialiasing.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\FastApproximateAntialiasing.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\Fog.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\Fog.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\Grain.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\Grain.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\LensDistortion.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\LensDistortion.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\MotionBlur.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\MotionBlur.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\MultiScaleVO.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\MultiScaleVO.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\ScalableAO.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\ScalableAO.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\ScreenSpaceReflections.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\ScreenSpaceReflections.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\SubpixelMorphologicalAntialiasing.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\SubpixelMorphologicalAntialiasing.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\TemporalAntialiasing.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\TemporalAntialiasing.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\Vignette.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Effects\Vignette.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Monitors.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Monitors\HistogramMonitor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Monitors\HistogramMonitor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Monitors\LightMeterMonitor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Monitors\LightMeterMonitor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Monitors\Monitor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Monitors\Monitor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Monitors\VectorscopeMonitor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Monitors\VectorscopeMonitor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Monitors\WaveformMonitor.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Monitors\WaveformMonitor.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\ParameterOverride.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\ParameterOverride.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessBundle.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessBundle.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessDebug.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessDebug.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessDebugLayer.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessDebugLayer.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessEffectRenderer.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessEffectRenderer.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessEffectSettings.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessEffectSettings.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessEvent.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessEvent.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessLayer.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessLayer.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessManager.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessManager.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessProfile.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessProfile.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessRenderContext.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessRenderContext.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessResources.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessResources.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessVolume.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\PostProcessVolume.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\ColorUtilities.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\ColorUtilities.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\HableCurve.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\HableCurve.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\HaltonSeq.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\HaltonSeq.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\LogHistogram.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\LogHistogram.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\MeshUtilities.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\MeshUtilities.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\PropertySheet.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\PropertySheet.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\PropertySheetFactory.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\PropertySheetFactory.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\RuntimeUtilities.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\RuntimeUtilities.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\ShaderIDs.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\ShaderIDs.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\Spline.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\Spline.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\TargetPool.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\TargetPool.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\TextureFormatUtilities.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\TextureFormatUtilities.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\TextureLerper.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\TextureLerper.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\XRSettings.cs
+Assets\SDF_BasicTrainingStage\PostProcessing\Runtime\Utils\XRSettings.cs.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\ACES.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\ACES.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API\D3D11.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API\D3D11.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API\Metal.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API\Metal.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API\OpenGL.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API\OpenGL.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API\PSP2.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API\PSP2.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API\Switch.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API\Switch.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API\Vulkan.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\API\Vulkan.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\AutoExposure.compute
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\AutoExposure.compute.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Bloom.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Bloom.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Copy.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Copy.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\CopyStd.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\CopyStd.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\CopyStdFromDoubleWide.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\CopyStdFromDoubleWide.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\CopyStdFromTexArray.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\CopyStdFromTexArray.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\DeferredFog.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\DeferredFog.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\DepthOfField.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\DepthOfField.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\DepthOfField.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\DepthOfField.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\DiscardAlpha.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\DiscardAlpha.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\DiskKernels.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\DiskKernels.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Distortion.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Distortion.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Dithering.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Dithering.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\ExposureHistogram.compute
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\ExposureHistogram.compute.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\ExposureHistogram.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\ExposureHistogram.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\FastApproximateAntialiasing.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\FastApproximateAntialiasing.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\FinalPass.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\FinalPass.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Fog.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Fog.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\GaussianDownsample.compute
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\GaussianDownsample.compute.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\GrainBaker.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\GrainBaker.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Lut2DBaker.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Lut2DBaker.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Lut3DBaker.compute
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Lut3DBaker.compute.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\MotionBlur.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\MotionBlur.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\MultiScaleVO.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\MultiScaleVO.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\MultiScaleVODownsample1.compute
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\MultiScaleVODownsample1.compute.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\MultiScaleVODownsample2.compute
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\MultiScaleVODownsample2.compute.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\MultiScaleVORender.compute
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\MultiScaleVORender.compute.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\MultiScaleVOUpsample.compute
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\MultiScaleVOUpsample.compute.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\ScalableAO.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\ScalableAO.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\ScalableAO.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\ScalableAO.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\ScreenSpaceReflections.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\ScreenSpaceReflections.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\ScreenSpaceReflections.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\ScreenSpaceReflections.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\SubpixelMorphologicalAntialiasing.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\SubpixelMorphologicalAntialiasing.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\SubpixelMorphologicalAntialiasing.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\SubpixelMorphologicalAntialiasing.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\SubpixelMorphologicalAntialiasingBridge.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\SubpixelMorphologicalAntialiasingBridge.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\TemporalAntialiasing.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\TemporalAntialiasing.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Texture2DLerp.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Texture2DLerp.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Texture3DLerp.compute
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Texture3DLerp.compute.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Uber.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Builtins\Uber.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Colors.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Colors.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Histogram.compute
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Histogram.compute.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Histogram.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Histogram.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\LightMeter.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\LightMeter.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Overlays.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Overlays.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Vectorscope.compute
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Vectorscope.compute.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Vectorscope.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Vectorscope.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Waveform.compute
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Waveform.compute.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Waveform.shader
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Debug\Waveform.shader.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Sampling.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\Sampling.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\StdLib.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\StdLib.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\xRLib.hlsl
+Assets\SDF_BasicTrainingStage\PostProcessing\Shaders\xRLib.hlsl.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_0.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_0.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_1.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_1.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_2.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_2.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_3.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_3.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_4.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_4.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_5.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_5.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_6.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_6.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_7.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 256px\LDR_LLL1_7.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_0.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_0.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_1.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_1.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_10.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_10.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_11.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_11.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_12.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_12.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_13.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_13.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_14.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_14.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_15.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_15.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_16.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_16.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_17.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_17.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_18.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_18.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_19.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_19.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_2.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_2.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_20.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_20.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_21.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_21.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_22.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_22.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_23.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_23.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_24.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_24.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_25.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_25.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_26.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_26.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_27.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_27.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_28.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_28.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_29.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_29.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_3.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_3.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_30.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_30.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_31.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_31.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_32.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_32.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_33.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_33.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_34.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_34.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_35.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_35.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_36.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_36.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_37.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_37.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_38.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_38.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_39.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_39.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_4.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_4.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_40.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_40.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_41.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_41.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_42.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_42.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_43.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_43.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_44.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_44.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_45.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_45.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_46.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_46.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_47.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_47.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_48.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_48.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_49.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_49.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_5.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_5.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_50.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_50.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_51.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_51.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_52.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_52.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_53.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_53.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_54.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_54.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_55.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_55.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_56.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_56.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_57.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_57.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_58.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_58.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_59.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_59.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_6.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_6.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_60.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_60.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_61.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_61.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_62.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_62.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_63.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_63.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_7.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_7.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_8.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_8.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_9.png
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\Blue Noise 64px\LDR_LLL1_9.png.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\SMAA.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\SMAA\AreaTex.tga
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\SMAA\AreaTex.tga.meta
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\SMAA\SearchTex.tga
+Assets\SDF_BasicTrainingStage\PostProcessing\Textures\SMAA\SearchTex.tga.meta
+Assets\SDF_BasicTrainingStage\Prefabs.meta
+Assets\SDF_BasicTrainingStage\Prefabs\Environment.meta
+Assets\SDF_BasicTrainingStage\Prefabs\Environment\TrainingStage_Background.prefab
+Assets\SDF_BasicTrainingStage\Prefabs\Environment\TrainingStage_Background.prefab.meta
+Assets\SDF_BasicTrainingStage\Textures.meta
+Assets\SDF_BasicTrainingStage\Textures\Enviornmants.meta
+Assets\SDF_BasicTrainingStage\Textures\Enviornmants\Training_Stage.meta
+Assets\SDF_BasicTrainingStage\Textures\Enviornmants\Training_Stage\Grid_04.png
+Assets\SDF_BasicTrainingStage\Textures\Enviornmants\Training_Stage\Grid_04.png.meta
+Assets\SDF_BasicTrainingStage\Textures\Enviornmants\Training_Stage\Grid_Normals.png
+Assets\SDF_BasicTrainingStage\Textures\Enviornmants\Training_Stage\Grid_Normals.png.meta
+Assets\TextMesh Pro.meta
+Assets\TextMesh Pro\Documentation.meta
+Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+Assets\TextMesh Pro\Examples & Extras.meta
+Assets\TextMesh Pro\Examples & Extras\Fonts.meta
+Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt
+Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt.meta
+Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf
+Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf.meta
+Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt
+Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt.meta
+Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf
+Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf.meta
+Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF
+Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF.meta
+Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt
+Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt.meta
+Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf
+Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf.meta
+Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf
+Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf.meta
+Assets\TextMesh Pro\Examples & Extras\Materials.meta
+Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface Shader Scene.mat
+Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface Shader Scene.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat
+Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface Shader Scene.mat
+Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface Shader Scene.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat
+Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab
+Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab.meta
+Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 1.prefab
+Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 1.prefab.meta
+Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 2.prefab
+Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 2.prefab.meta
+Assets\TextMesh Pro\Examples & Extras\Resources.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue to Purple - Vertical.asset
+Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue to Purple - Vertical.asset.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark to Light Green - Vertical.asset
+Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark to Light Green - Vertical.asset.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light to Dark Green - Vertical.asset
+Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light to Dark Green - Vertical.asset.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow to Orange - Vertical.asset
+Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow to Orange - Vertical.asset.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Drop Shadow.mat
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Drop Shadow.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Outline.mat
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Outline.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Sunny Days.mat
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Sunny Days.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF.asset
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF.asset.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF - Drop Shadow.mat
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF - Drop Shadow.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF - Outline.mat
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF - Outline.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF Glow.mat
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF Glow.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF Logo.mat
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF Logo.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF.asset
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF.asset.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic Highway Sign SDF.asset
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic Highway Sign SDF.asset.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Metalic Green.mat
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Metalic Green.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Overlay.mat
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Overlay.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Soft Mask.mat
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Soft Mask.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald Bold SDF.asset
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald Bold SDF.asset.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF - Drop Shadow.mat
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF - Drop Shadow.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF - Surface.mat
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF - Surface.mat.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF.asset
+Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF.asset.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default Sprite Asset.asset
+Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default Sprite Asset.asset.meta
+Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap Numbers.asset
+Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap Numbers.asset.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh Pro.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh Pro.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh Pro.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh Pro.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text Examples.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text Examples.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript & Subscript Example.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript & Subscript Example.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered List Example.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered List Example.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics & Sprites.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics & Sprites.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow mode example.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow mode example.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking & Layout.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking & Layout.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture & Soft Mask.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture & Soft Mask.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with Scrollbar.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with Scrollbar.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting Example.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting Example.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex Attributes.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex Attributes.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader Example.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader Example.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\26 - Dropdown Placeholder Example.unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\26 - Dropdown Placeholder Example.unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating Text).unity
+Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating Text).unity.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+Assets\TextMesh Pro\Examples & Extras\Sprites.meta
+Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png
+Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png.meta
+Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd
+Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd.meta
+Assets\TextMesh Pro\Examples & Extras\Textures.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg
+Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg
+Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg
+Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg
+Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal (Color).jpg
+Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal (Color).jpg.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal (Color).jpg
+Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal (Color).jpg.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical (Color).jpg
+Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical (Color).jpg.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd
+Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg
+Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg
+Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg
+Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text Image 1.png
+Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text Image 1.png.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text UI Screenshot.png
+Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text UI Screenshot.png.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd
+Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd
+Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Double.psd
+Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Double.psd.meta
+Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Quad.psd
+Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Quad.psd.meta
+Assets\TextMesh Pro\Fonts.meta
+Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+Assets\TextMesh Pro\Resources.meta
+Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat
+Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat.meta
+Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
+Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
+Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
+Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+Assets\TextMesh Pro\Resources\Sprite Assets.meta
+Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+Assets\TextMesh Pro\Resources\Style Sheets.meta
+Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+Assets\TextMesh Pro\Resources\TMP Settings.asset
+Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+Assets\TextMesh Pro\Shaders.meta
+Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
+Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
+Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
+Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
+Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
+Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
+Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
+Assets\TextMesh Pro\Shaders\TMP_SDF.shader
+Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
+Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
+Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
+Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
+Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
+Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
+Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
+Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
+Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
+Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
+Assets\TextMesh Pro\Shaders\TMPro.cginc
+Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
+Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
+Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
+Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
+Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
+Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
+Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
+Assets\TextMesh Pro\Sprites.meta
+Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+Assets\TextMesh Pro\Sprites\EmojiOne.json
+Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+Assets\TextMesh Pro\Sprites\EmojiOne.png
+Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+CONTRIBUTION.md
+Packages\manifest.json
+Packages\packages-lock.json
+ProjectSettings\AudioManager.asset
+ProjectSettings\ClusterInputManager.asset
+ProjectSettings\DynamicsManager.asset
+ProjectSettings\EditorBuildSettings.asset
+ProjectSettings\EditorSettings.asset
+ProjectSettings\GraphicsSettings.asset
+ProjectSettings\InputManager.asset
+ProjectSettings\MemorySettings.asset
+ProjectSettings\NavMeshAreas.asset
+ProjectSettings\PackageManagerSettings.asset
+ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+ProjectSettings\Physics2DSettings.asset
+ProjectSettings\PresetManager.asset
+ProjectSettings\ProjectSettings.asset
+ProjectSettings\ProjectVersion.txt
+ProjectSettings\QualitySettings.asset
+ProjectSettings\SceneTemplateSettings.json
+ProjectSettings\TagManager.asset
+ProjectSettings\TimeManager.asset
+ProjectSettings\UnityConnectSettings.asset
+ProjectSettings\VersionControlSettings.asset
+ProjectSettings\VFXManager.asset
+ProjectSettings\XRSettings.asset
+README.md
+SUBMISSION_CHECKLIST.md
