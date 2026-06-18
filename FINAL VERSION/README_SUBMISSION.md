@@ -106,7 +106,7 @@ This project uses imported Unity assets for characters, animations, environment,
 
 ## AI / Tutorial / Template Use
 
-AI assistance was used to help  organize documentation and support debugging. The final gameplay direction, testing feedback, and design decisions were guided by the project owner.
+AI assistance was used to help  organize documentation, generate photos and support debugging. The final gameplay direction, testing feedback, and design decisions were guided by the project owner.
 
 ## Development Evidence
 
